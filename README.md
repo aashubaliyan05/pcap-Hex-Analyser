@@ -17,3 +17,7 @@ Output
  -> After all completing all these steps the output will be saved to Output.txt 
  -> Output.txt contains the formatted output 
  -> Copy the source of Output.txt into HxD Editor and then save as that file in the extension of the output
+ 
+ !Note
+ 
+ raw.txt contains the sample hex for a jpg file. Please change raw.txt accordingly.
